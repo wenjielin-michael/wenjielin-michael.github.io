@@ -28,7 +28,7 @@ Awards and Honors
 * *First-class Academic Scholarship* for graduate student of Shanghai Jiao Tong University, 2017-9.
 * *Exam-exempted postgraduate student* recommended to Shanghai Jiao Tong University, 2017-6.
 * The key member of last eight teams in [RoboCup](https://www.robocup.org/) of World (In Leipzig, Germany), 2016-6.
-* The first prize of [Mathematical Contest in Modeling (MCM)] (https://www.comap.com/undergraduate/contests/), 2015-10.
+* The first prize of [Mathematical Contest in Modeling (MCM)](https://www.comap.com/undergraduate/contests/), 2015-10.
 * *President Scholarship of Southeast University*, 2015.
 * *Merit Student of Southeast University*, 2015.
 
