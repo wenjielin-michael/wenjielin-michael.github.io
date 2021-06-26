@@ -13,14 +13,19 @@ redirect_from:
 ======
 * Hide Park:
   * Hide Park near Imperial College.
-![Image text](https://github.com/Alex-yanranwang/Alex-yanranwang.github.io/blob/master/images/Hidepark0.jpg)
+<img src="https://github.com/Alex-yanranwang/Alex-yanranwang.github.io/blob/master/images/Hidepark0.jpg" width="80%" height="80%">
+<img src="https://github.com/Alex-yanranwang/Alex-yanranwang.github.io/blob/master/images/Hidepark1.jpg" width="80%" height="80%">
+<img src="https://github.com/Alex-yanranwang/Alex-yanranwang.github.io/blob/master/images/Hidepark2.jpg" width="80%" height="80%">
+<img src="https://github.com/Alex-yanranwang/Alex-yanranwang.github.io/blob/master/images/Hidepark3.jpg" width="80%" height="80%">
+<!--![Image text](https://github.com/Alex-yanranwang/Alex-yanranwang.github.io/blob/master/images/Hidepark0.jpg)
 ![Image text](https://github.com/Alex-yanranwang/Alex-yanranwang.github.io/blob/master/images/Hidepark1.jpg)
 ![Image text](https://github.com/Alex-yanranwang/Alex-yanranwang.github.io/blob/master/images/Hidepark2.jpg)
-![Image text](https://github.com/Alex-yanranwang/Alex-yanranwang.github.io/blob/master/images/Hidepark3.jpg)
+![Image text](https://github.com/Alex-yanranwang/Alex-yanranwang.github.io/blob/master/images/Hidepark3.jpg) -->
 
 * Beach of Tantou_island:
   * Tantou_island is in Xiangshan County, Ningbo City, Zhejiang Province.
-![Image text](https://github.com/Alex-yanranwang/Alex-yanranwang.github.io/blob/master/images/Tantou_island.jpg)
+<img src="https://github.com/Alex-yanranwang/Alex-yanranwang.github.io/blob/master/images/Tantou_island.jpg" width="80%" height="80%">
+<!--![Image text](https://github.com/Alex-yanranwang/Alex-yanranwang.github.io/blob/master/images/Tantou_island.jpg)-->
 
 
 2020
@@ -35,7 +40,8 @@ redirect_from:
 * The Yangtse River
   * The Yangtse River is the longest river in Asia and the third-longest in the world.
   * The photo is the view of the Yangtze River flowing through my hometown.
-![Image text](https://github.com/Alex-yanranwang/Alex-yanranwang.github.io/blob/master/images/Yangtse0.jpg)
+<img src="https://github.com/Alex-yanranwang/Alex-yanranwang.github.io/blob/master/images/Yangtse0.jpg" width="80%" height="80%">
+<!--![Image text](https://github.com/Alex-yanranwang/Alex-yanranwang.github.io/blob/master/images/Yangtse0.jpg)-->
 
 <!--
 2019
