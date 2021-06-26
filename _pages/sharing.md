@@ -15,11 +15,11 @@ redirect_from:
   * Hide Park near Imperial College.
 <img src="https://Alex-yanranwang.github.io//images/Hidepark0.jpg" width="80%" height="80%">
 ---
-<img src="https://Alex-yanranwang.github.io//images/Hidepark1.jpg" width="80%" height="80%">
+<img src="https://Alex-yanranwang.github.io//images/Hidepark1.jpg" width="80%" height="65%">
 ---
 <img src="https://Alex-yanranwang.github.io//images/Hidepark2.jpg" width="80%" height="80%">
 ---
-<img src="https://Alex-yanranwang.github.io//images/Hidepark3.jpg" width="80%" height="80%">
+<img src="https://Alex-yanranwang.github.io//images/Hidepark3.jpg" width="80%" height="65%">
 
 * Beach of Tantou_island:
   * Tantou_island is in Xiangshan County, Ningbo City, Zhejiang Province.
