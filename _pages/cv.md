@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-CV
 ======
 Here is my [CV](https://yrwang501.github.io/files/CV_Yanran.pdf).
 <!-- Here is my CV [[English Version](https://yrwang501.github.io/files/CV_Yanran.pdf), [中文简历](https://alanlusun.github.io/files/CV_LuChangsheng_CN.pdf)]. -->
