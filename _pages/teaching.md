@@ -11,12 +11,15 @@ redirect_from:
 
 Current Teaching Assiatant
 ======
-*I have been completed the training courses of Graduate Teaching Assistant (GTA). and if there is any opportunity to be a GTA at Imperial, please feel free to contact me!*
+* Sensing and the Internet of Things (SIoT):
+	* [LAB 1](https://www.kaggle.com/ranyajumah/siot-sensing-analytics-lab), [LAB 2](https://www.kaggle.com/annamariamandalari/iotlab), [LAB 3](https://www.kaggle.com/malekzadeh/human-activity-recognition-with-mobile-sensing/notebook), [LAB 4](https://www.kaggle.com/fvincentmo/siot-priv-sec-lab)
+
+* [Gizmo for DE2](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=aaa856f3-e0d6-49e0-a817-adb300faf2c8)
+
 
 Past Teaching Assistant
 ======
-* Academic Writing, Norms and Ethics
-Course, Graduate School Building, Shanghai Jiao Tong University, 2018.
+* Academic Writing, Norms and Ethics Course, Graduate School Building, Shanghai Jiao Tong University, 2018.
 
 [[go top](https://Alex-yanranwang.github.io/teaching/)]  
 
