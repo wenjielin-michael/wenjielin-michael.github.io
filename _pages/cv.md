@@ -17,7 +17,7 @@ Education
 ======
 * 2021.01 - NOW:     Ph.D Student, Imperial College London.
 	Supervisor: [Dr. David Boyle](https://www.imperial.ac.uk/people/david.boyle) and [Prof. Robert Shorten](https://robertshorten.com/)
-* 2017.09 - 2020.03: M.S. in information and control, Shanghai Jiao Tong University.
+* 2017.09 - 2020.03: M.S. in information and control (Aeronautical and Astronautical Science and Technology), Shanghai Jiao Tong University.
 	Supervisor: [Prof. Gang Xiao](https://www.aero.sjtu.edu.cn/Data/View/1025)
 * 2013.09 - 2017.06: B.S. in Automation, Southest University.
 
