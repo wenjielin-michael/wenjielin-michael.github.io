@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Yanran Wang is a first year Ph.D. student at [Imperial College London](https://www.imperial.ac.uk/), where he is co-supervised by [Dr. David Boyle](https://www.imperial.ac.uk/people/david.boyle) and [Prof. Robert Shorten](https://robertshorten.com/). Currently, he is working in [Systems and Algorithms Laboratory (SysAL)](https://www.imperial.ac.uk/systems-algorithms-design-lab/) led by [Dr. Hamed Haddadi](https://www.imperial.ac.uk/people/h.haddadi). Prior to joining Imperial College, he received the M.S. degree in Information and Control at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), Shanghai, China, in 2020, and B.S. degree in Automation at [Southeast University](https://www.seu.edu.cn/), Nanjing, China, in 2017.
+Yanran Wang is a second year Ph.D. student at [Imperial College London](https://www.imperial.ac.uk/), where he is co-supervised by [Dr. David Boyle](https://www.imperial.ac.uk/people/david.boyle) and [Prof. Robert Shorten](https://robertshorten.com/). Currently, he is working in [Systems and Algorithms Laboratory (SysAL)](https://www.imperial.ac.uk/systems-algorithms-design-lab/) led by [Dr. Hamed Haddadi](https://www.imperial.ac.uk/people/h.haddadi). Prior to joining Imperial College, he received the M.S. degree in Information and Control at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), Shanghai, China, in 2020, and B.S. degree in Automation at [Southeast University](https://www.seu.edu.cn/), Nanjing, China, in 2017.
 
-His research interests mainly include **Autonomous Navigation**, **Trajectory Planning** and **(Deep) Reinforcement Learning** in Cyber-physical Systems. Particularly, he is interested in the theories and algorithms that empower machine to see and think more intelligent. In addition to scientific research, he loves classic music and sports!
+His research interests mainly include **Autonomous Navigation** and **(Safe) Reinforcement Learning** in Cyber-physical Systems. Particularly, he is interested in the theories and algorithms that empower quadrotors to see and think more intelligent. In addition to scientific research, he loves classic music and sports!
 
 Please feel free to contact should you be interested in his research.
 
@@ -19,8 +19,8 @@ Please feel free to contact should you be interested in his research.
 News
 ===  
 * January 31, 2022, our paper “[KinoJGM: A framework for efficient and accurate quadrotor trajectory generation and tracking in dynamic environments](https://alex-yanranwang.github.io/)” is accepted to ICRA 2022 (Philadelphia, United States)!
-* January 11, 2021, I am very excited to enroll in Imperial College London as a new PhD student. An exciting journey has begun!
-* March 31, 2020, I have graduated with a master's degree in Shanghai Jiao Tong University.
+* April 1, 2020, I will be a PhD student in Imperial College London. An exciting journey has begun!
+* March 31, 2020, I graduate with a master's degree (with honor) in Shanghai Jiao Tong University.
 
 
 [[go top](https://Alex-yanranwang.github.io/)]  
