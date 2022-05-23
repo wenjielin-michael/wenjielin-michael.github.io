@@ -19,7 +19,9 @@ Please feel free to contact should you be interested in his research.
 News
 ===  
 * January 31, 2022, our paper “[KinoJGM: A framework for efficient and accurate quadrotor trajectory generation and tracking in dynamic environments](https://alex-yanranwang.github.io/)” is accepted to ICRA 2022 (Philadelphia, United States)!
-* April 1, 2020, I will be a PhD student in Imperial College London. An exciting journey has begun!
+* 4th, 2021, I just pass my Early Stage Accessment (ESA) :) 
+* May 1, 2021, I am very excited to enroll in Dyson School at Imperial College as a new PhD student. An exciting journey has begun!
+* April 1, 2020, I will be a PhD student in Imperial College London.
 * March 31, 2020, I graduate with a master's degree (with honor) in Shanghai Jiao Tong University.
 
 
