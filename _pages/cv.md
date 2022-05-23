@@ -23,7 +23,7 @@ Education
 
 Awards and Honors
 ======  
-* *Outstanding Graduate Student* of Shanghai, 2020-3.
+* Shanghai *Outstanding Graduate Student*, 2020-3.
 * *National Scholarship* for graduate student, 2018-10.
 * *First-class Academic Scholarship* for graduate student of Shanghai Jiao Tong University, 2017-9.
 * *Exam-exempted postgraduate student* recommended to Shanghai Jiao Tong University, 2017-6.
