@@ -18,7 +18,7 @@ Please feel free to contact should you be interested in his research.
 
 News
 ===  
-* May 26, 2022, I will give an oral presentation on ICRA in Philadelphia, United States. Hopefully see you all!
+* May 26, 2022, I will give an oral presentation on ICRA 2022 in person, in Philadelphia. Hopefully see you all!
 * January 31, 2022, our paper “[KinoJGM: A framework for efficient and accurate quadrotor trajectory generation and tracking in dynamic environments](https://alex-yanranwang.github.io/)” is accepted to ICRA 2022 (Philadelphia, United States)!
 * 4th, 2021, I just pass my Early Stage Accessment (ESA) :) 
 * May 1, 2021, I am very excited to enroll in Dyson School at Imperial College as a new PhD student. An exciting journey has begun!
