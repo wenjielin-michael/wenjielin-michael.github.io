@@ -18,6 +18,7 @@ Please feel free to contact should you be interested in his research.
 
 News
 ===  
+* September 10, 2022, our paper “[QuaDUE-CCM: Interpretable Distributional Reinforcement Learning using Uncertain Contraction Metrics for Precise Quadrotor Trajectory Tracking](https://arxiv.org/abs/2207.07789)” is accepted to CoRL 2022.
 * July 15, 2022, our paper “[Interpretable Stochastic Model Predictive Control using Distributional Reinforced Estimation for Quadrotor Tracking Systems](https://arxiv.org/abs/2205.07150)” is accepted to CDC 2022.
 * May 26, 2022, I will give an oral presentation on ICRA 2022 in person, in Philadelphia. Hopefully see you all!
 * January 31, 2022, our paper “[KinoJGM: A framework for efficient and accurate quadrotor trajectory generation and tracking in dynamic environments](https://arxiv.org/abs/2202.12419)” is accepted to ICRA 2022 (Philadelphia, United States)!
