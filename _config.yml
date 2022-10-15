@@ -6,12 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Yanran Wang"
+locale                   : "USA"
+title                    : "Wenjie Lin"
 title_separator          : "-"
-name                     : &name "Yanran Wang"
+name                     : &name "Wenjie Lin"
 description              : &description "personal description"
-url                      : https://Alex-yanranwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wenjielin-michael.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -21,7 +21,7 @@ read_more                : "disabled" # if enabled, adds "Read more" links to ex
 comments:
   provider               :  disqus # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus: 
-    shortname            : YanranWang
+    shortname            : WenjieLin
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -78,13 +78,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yanran Wang  <br> 王彦然"
+  name             : "Wenjie Lin  <br> 林文杰"
   avatar           : "profile.jpg" 
-  bio              : "Imperial College London"
-  location         : "London, United Kingdom"
+  bio              : "Columbia University"
+  location         : "New York, USA"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=IN9B5GcAAAAJ"
-  email            : "yanran.wang20@imperial.ac.uk"
+  email            : "wenjie.lin@columbia.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +91,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Alex-yanranwang"
+  github           : "wenjielin-michael"
   google_plus      :
   keybase          :
   instagram        :
