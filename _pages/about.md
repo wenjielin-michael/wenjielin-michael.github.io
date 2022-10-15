@@ -18,7 +18,7 @@ Please feel free to contact should you be interested in his research.
 
 News
 ===  
-* September 14, 2022, my paper “[Deep Reinforcement Learning based Haptic Enhancement for Tele-Diagnosis](https://ieeexplore.ieee.org/abstract/document/9882866)” is published on Fuzz-IEEE (WCCI 2022).
+* September 14, 2022, my paper “[Deep Reinforcement Learning based Haptic Enhancement for Tele-Diagnosis](https://ieeexplore.ieee.org/abstract/document/9882866)” is published on FUZZ-IEEE (WCCI 2022).
 * July 23, 2022, I will give an oral presentation on WCCI 2022!
 * April 26, 2022, my paper “[Deep Reinforcement Learning based Haptic Enhancement for Tele-Diagnosis](https://ieeexplore.ieee.org/abstract/document/9882866)” is accepted to WCCI 2022 (Padova, Italy)!
 
