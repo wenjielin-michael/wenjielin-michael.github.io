@@ -3,8 +3,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "projects"
+    url: /projects/
 
   - title: "Publications"
     url: /publications/
@@ -12,8 +12,8 @@ main:
   - title: "Sharing"
     url: /sharing/    
 
-  #- title: "Teaching"
-  #  url: /teaching/    
+  #- title: "projects"
+  #  url: /projects/    
     
   #- title: "Portfolio"
   #  url: /portfolio/

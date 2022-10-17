@@ -11,7 +11,7 @@ author_profile: true
 <i>FUZZ-IEEE, WCCI.</i> <b>2022</b>.
 
 <b>[Evaluation of Smart Energy Management Systems and Novel UV-Oriented Solution for Integration, Resilience, Inclusiveness and Sustainability](https://ieeexplore.ieee.org/abstract/document/9426217)</b><br>
-Zhiyuan Yang and <b>Wenjie Lin, et al</b>.<br>
+Zhiyuan Yang and <b>Wenjie Lin</b>, et al.<br>
 <i>IEEE-UV.</i> <b>2020</b>.
 
 
