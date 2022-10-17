@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Projects"
-permalink: /Projects/
+title: "projects"
+permalink: /projects/
 author_profile: true
 redirect_from:
   - /resume
