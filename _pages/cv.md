@@ -15,34 +15,21 @@ Here is my [CV](https://wenjielin-michael.github.io/files/Wenjie Lin's CV.pdf).
 
 Education
 ======
-* 2021.05 - NOW:     Ph.D Student, Imperial College London.
-	Supervisor: [Dr. David Boyle](https://www.imperial.ac.uk/people/david.boyle) and [Prof. Robert Shorten](https://robertshorten.com/)
-* 2017.09 - 2020.03: M.S. in information and control (Aeronautical and Astronautical Science and Technology), Shanghai Jiao Tong University.
-	Supervisor: [Prof. Gang Xiao](https://www.aero.sjtu.edu.cn/Data/View/1025)
-* 2013.09 - 2017.06: B.S. in Automation, Southest University.
+* 2021.09 - Expected 2022.12:     M.S. Student, in Mechanical Engineering (Robotics and Control), Columbia University. 
+* 2016.09 - 2020.06: B.E. in Safety Engineering, University of Science and Technology Beijing.
+* 2019.06 - 2020.08: Exchange Student in Mechanical Engineering, UCLA.
+* 2019.01 - 2019.05: Exchange Student in Mechanical Engineering, UC Berkeley.
 
 Awards and Honors
 ======  
-* *Outstanding Graduate Student*, 2020-3.
-* *National Scholarship* for graduate student, 2018-10.
-* *First-class Academic Scholarship* for graduate student of Shanghai Jiao Tong University, 2017-9.
-* *Exam-exempted postgraduate student* recommended to Shanghai Jiao Tong University, 2017-6.
-* The key member of last eight teams in [RoboCup](https://www.robocup.org/) of World (In Leipzig, Germany), 2016-6.
-* The first prize of [Mathematical Contest in Modeling (MCM)](https://www.comap.com/undergraduate/contests/), 2015-10.
-* *President Scholarship of Southeast University*, 2015.
-* *Merit Student of Southeast University*, 2015.
+* *Outstanding Graduate of USTB*, 2020-6.
+* *The People’s Scholarship of China* for undergraduate student, 2019-10.
+* Third Prize, University Smart Motor Design Competition, 2018.12
+* Champion, USTB’s Innovative Safety Design Competition, 2018.4
+* 1st runner up, USTB 1500-meter long run competition, 2018.4
+* *Merit Student of USTB*, 2017-12.
+* Excellent Group Award, Sony Dream Classroom Committee for Chinese Undergraduate Students’ Social
+  Activities, 2017.10
 
-Work or Intership experience
-======
-* 2020: Research Assistant
-  * [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), Shanghai, China.
-
-* 2019: Machine Learning Algorithm Intern
-  * Internship in [Ant Financial Services Group (Alipay)](https://www.antgroup.com/en), Shanghai, China.
-  * Deep Reinforcement Learning development for recommender systems.
-
-* 2019: Deep Learning Software Intern
-  * Intership in Intel Asia-Pacific R&D Center, Shanghai, China.
-  * A deep learning framework (BigDL) development and test preprocessing.
 
 [[go top](https://wenjielin-michael.github.io/cv/)]  

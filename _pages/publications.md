@@ -6,14 +6,12 @@ author_profile: true
 ---
 
 ## Selected Publications
-<b>[KinoJGM: A framework for efficient and accurate quadrotor trajectory generation and tracking in dynamic environments.](https://arxiv.org/abs/2202.12419)</b><br>
-<b>Yanran Wang</b> James O'Keeffe, Qiuchen Qian and David Boyle.<br>
-<i>IEEE International Conference on Robotics and Automation ICRA.</i> <b>2022</b>.
+<b>[Deep Reinforcement Learning based Haptic Enhancement for Tele-Diagnosis](https://ieeexplore.ieee.org/abstract/document/9882866)</b><br>
+<b>Wenjie Lin<br>
+<i>FUZZ-IEEE, WCCI.</i> <b>2022</b>.
 
-<b>[Research on safety modeling and analysis in information fusion system.](https://link.springer.com/article/10.1007/s42401-018-0011-2)</b><br>
-Gang Xiao and <b>Yanran Wang</b>.<br>
-<i>Aerospace Systems.</i> <b>2019</b>.
+<b>[Evaluation of Smart Energy Management Systems and Novel UV-Oriented Solution for Integration, Resilience, Inclusiveness and Sustainability](https://ieeexplore.ieee.org/abstract/document/9426217)</b><br>
+Zhiyuan Yang and <b>Wenjie Lin, et al</b>.<br>
+<i>IEEE-UV.</i> <b>2020</b>.
 
-<b>[Integrated Display and Simulation for Automatic Dependent Surveillance–Broadcast and Traffic Collision Avoidance System Data Fusion.](https://www.mdpi.com/1424-8220/17/11/2611)</b><br>
-<b>Yanran Wang</b> Gang Xiao and Zhouyun Dai.<br>
-<i>Sensors.</i> <b>2017</b>.
+
