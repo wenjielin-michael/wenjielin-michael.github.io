@@ -12,42 +12,42 @@ redirect_from:
 2022
 ======
 * Alaska:
-<img src="https://wenjielin-michael.github.io//images/Alaska1.jpg" width="80%" height="80%">
+<img src="https://wenjielin-michael.github.io//images/Alaska1.jpeg" width="80%" height="80%">
 ---
-<img src="https://wenjielin-michael.github.io//images/Alaska2.jpg" width="80%" height="65%">
+<img src="https://wenjielin-michael.github.io//images/Alaska2.jpeg" width="80%" height="65%">
 ---
-<img src="https://wenjielin-michael.github.io//images/Alaska3.jpg" width="80%" height="80%">
+<img src="https://wenjielin-michael.github.io//images/Alaska3.jpeg" width="80%" height="80%">
 
 * Miami:
-<img src="https://wenjielin-michael.github.io//images/Miami1.jpg" width="80%" height="80%">
+<img src="https://wenjielin-michael.github.io//images/Miami1.jpeg" width="80%" height="80%">
 ---
-<img src="https://wenjielin-michael.github.io//images/Miami2.jpg" width="80%" height="80%">
+<img src="https://wenjielin-michael.github.io//images/Miami2.jpeg" width="80%" height="80%">
 ---
-<img src="https://wenjielin-michael.github.io//images/Miami3.jpg" width="80%" height="80%">
+<img src="https://wenjielin-michael.github.io//images/Miami3.jpeg" width="80%" height="80%">
 
 * NYC:
-<img src="https://wenjielin-michael.github.io//images/NYC1.jpg" width="80%" height="80%">
+<img src="https://wenjielin-michael.github.io//images/NYC1.jpeg" width="80%" height="80%">
 ---
-<img src="https://wenjielin-michael.github.io//images/NYC2.jpg" width="80%" height="80%">
+<img src="https://wenjielin-michael.github.io//images/NYC2.jpeg" width="80%" height="80%">
 
 * Pennsylvania:
-<img src="https://wenjielin-michael.github.io//images/Pennsylvania1.jpg" width="80%" height="80%">
+<img src="https://wenjielin-michael.github.io//images/Pennsylvania1.jpeg" width="80%" height="80%">
 
 * Tennis:
-<img src="https://wenjielin-michael.github.io//images/Tennis1.jpg" width="80%" height="80%">
+<img src="https://wenjielin-michael.github.io//images/Tennis1.jpeg" width="80%" height="80%">
 ---
-<img src="https://wenjielin-michael.github.io//images/Tennis2.jpg" width="80%" height="80%">
+<img src="https://wenjielin-michael.github.io//images/Tennis2.jpeg" width="80%" height="80%">
 ---
-<img src="https://wenjielin-michael.github.io//images/Tennis3.jpg" width="80%" height="80%">
+<img src="https://wenjielin-michael.github.io//images/Tennis3.jpeg" width="80%" height="80%">
 
 2021
 ======
 * US OPEN:
-<img src="https://wenjielin-michael.github.io//images/usopen1.jpg" width="80%" height="80%">
+<img src="https://wenjielin-michael.github.io//images/usopen1.jpeg" width="80%" height="80%">
 ---
-<img src="https://wenjielin-michael.github.io//images/usopen2.jpg" width="80%" height="80%">
+<img src="https://wenjielin-michael.github.io//images/usopen2.jpeg" width="80%" height="80%">
 ---
-<img src="https://wenjielin-michael.github.io//images/usopen3.jpg" width="80%" height="80%">
+<img src="https://wenjielin-michael.github.io//images/usopen3.jpeg" width="80%" height="80%">
 
 
 [[go top](https://wenjielin-michael.github.io/sharing/)]  
