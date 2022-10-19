@@ -12,9 +12,9 @@ author_profile: true
 
 <b>[Evaluation of Smart Energy Management Systems and Novel UV-Oriented Solution for Integration, Resilience, Inclusiveness and Sustainability](https://ieeexplore.ieee.org/abstract/document/9426217)</b><br>
 Zhiyuan Yang and <b>Wenjie Lin</b>, et al.<br>
-<i>IEEE-UV.</i> <b>2020</b>.
+<i>IEEE-Universal Village.</i> <b>2020</b>.
 
 ## Working Papers
 <b>[Primary Hyperhidrosis: A Review of Current Diagnosis and Management and Potential Engineering and Social Interventions]</b><br>
 <b>Wenjie Lin, Yajun Fang<br>
-To appear on <i>IEEE-UV.</i> <b>2022</b>.
+To appear on <i>IEEE-Universal Village.</i> <b>2022</b>.

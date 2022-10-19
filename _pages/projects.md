@@ -11,9 +11,9 @@ redirect_from:
 
 Personal Projects
 ======
-* Intelligent Glove For Hyperhidrosis Patients
+* Intelligent Glove for Hyperhidrosis Patients
   [ongoing] 
-  
+
   (Please feel free to contact me if you are interested in this project.)
 
 Columbia University
