@@ -11,29 +11,35 @@ redirect_from:
 
 2022
 ======
-* Alaska:
+* Alaska
+
 <img src="https://wenjielin-michael.github.io//images/Alaska1.jpeg" width="80%" height="80%">
 ---
 <img src="https://wenjielin-michael.github.io//images/Alaska2.jpeg" width="80%" height="65%">
 ---
 <img src="https://wenjielin-michael.github.io//images/Alaska3.jpeg" width="80%" height="80%">
 
-* Miami:
+* Miami
+
+
 <img src="https://wenjielin-michael.github.io//images/Miami1.jpeg" width="80%" height="80%">
 ---
 <img src="https://wenjielin-michael.github.io//images/Miami2.jpeg" width="80%" height="80%">
 ---
 <img src="https://wenjielin-michael.github.io//images/Miami3.jpeg" width="80%" height="80%">
 
-* NYC:
+* NYC
+
 <img src="https://wenjielin-michael.github.io//images/NYC1.jpeg" width="80%" height="80%">
 ---
 <img src="https://wenjielin-michael.github.io//images/NYC2.jpeg" width="80%" height="80%">
 
-* Pennsylvania:
+* Pennsylvania
+
 <img src="https://wenjielin-michael.github.io//images/Pennsylvania1.jpeg" width="80%" height="80%">
 
-* Tennis:
+* Tennis
+
 <img src="https://wenjielin-michael.github.io//images/Tennis1.jpeg" width="80%" height="80%">
 ---
 <img src="https://wenjielin-michael.github.io//images/Tennis2.jpeg" width="80%" height="80%">
@@ -42,7 +48,8 @@ redirect_from:
 
 2021
 ======
-* US OPEN:
+* US OPEN
+
 <img src="https://wenjielin-michael.github.io//images/usopen1.jpeg" width="80%" height="80%">
 ---
 <img src="https://wenjielin-michael.github.io//images/usopen2.jpeg" width="80%" height="80%">
