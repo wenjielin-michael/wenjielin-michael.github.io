@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Personal Projects
+======
+* Intelligent Glove For Hyperhidrosis Patients
+  ongoing (Please feel free to contact me if you are interested in this project.)
+
 Columbia University
 ======
 * Birdman and LarvaBot (MECE4611 Robotics Studio Instructed by Prof. Hod Lipson)[[PDF]](https://wenjielin-michael.github.io/files/LarvaBot and Birdman's Final Report.pdf)  [[Video]](https://youtu.be/3n6W_W2n-a4)

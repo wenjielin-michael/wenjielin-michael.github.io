@@ -14,4 +14,7 @@ author_profile: true
 Zhiyuan Yang and <b>Wenjie Lin</b>, et al.<br>
 <i>IEEE-UV.</i> <b>2020</b>.
 
-
+## Working Papers
+<b>[Primary Hyperhidrosis: A Review of Current Diagnosis and Management and Potential Engineering and Social Interventions]</b><br>
+<b>Wenjie Lin, Yajun Fang<br>
+To appear on <i>IEEE-UV.</i> <b>2022</b>.
