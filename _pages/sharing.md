@@ -25,22 +25,22 @@ redirect_from:
   
   * Wakesurfing
   
-  <img src="https://wenjielin-michael.github.io//images/wakesurfing.jpg" width="70%" height="70%">
+  <img src="https://wenjielin-michael.github.io//images/wakesurfing.jpg" width="50%" height="50%">
 ---
 
-<img src="https://wenjielin-michael.github.io//images/Miami1.jpeg" width="70%" height="70%">
+<img src="https://wenjielin-michael.github.io//images/Miami1.jpeg" width="60%" height="60%">
 ---
-<img src="https://wenjielin-michael.github.io//images/Miami2.jpeg" width="70%" height="70%">
+<img src="https://wenjielin-michael.github.io//images/Miami2.jpeg" width="60%" height="60%">
 ---
 
-<img src="https://wenjielin-michael.github.io//images/Miami3.jpeg" width="70%" height="70%">
+<img src="https://wenjielin-michael.github.io//images/Miami3.jpeg" width="60%" height="60%">
 ---
 
 * NYC
 
-<img src="https://wenjielin-michael.github.io//images/NYC1.jpeg" width="70%" height="70%">
+<img src="https://wenjielin-michael.github.io//images/NYC1.jpeg" width="60%" height="60%">
 ---
-<img src="https://wenjielin-michael.github.io//images/NYC2.jpeg" width="70%" height="70%">
+<img src="https://wenjielin-michael.github.io//images/NYC2.jpeg" width="60%" height="60%">
 
 * Pennsylvania
 
@@ -49,24 +49,24 @@ redirect_from:
 
 * Tennis
 
-<img src="https://wenjielin-michael.github.io//images/Tennis1.jpeg" width="70%" height="70%">
+<img src="https://wenjielin-michael.github.io//images/Tennis1.jpeg" width="50%" height="50%">
 ---
-<img src="https://wenjielin-michael.github.io//images/Tennis2.jpeg" width="70%" height="70%">
+<img src="https://wenjielin-michael.github.io//images/Tennis2.jpeg" width="50%" height="50%">
 ---
 
-<img src="https://wenjielin-michael.github.io//images/Tennis3.jpeg" width="70%" height="70%">
+<img src="https://wenjielin-michael.github.io//images/Tennis3.jpeg" width="50%" height="50%">
 ---
 
 2021
 ======
 * US OPEN
 
-<img src="https://wenjielin-michael.github.io//images/usopen1.jpeg" width="70%" height="70%">
+<img src="https://wenjielin-michael.github.io//images/usopen1.jpeg" width="50%" height="50%">
 ---
-<img src="https://wenjielin-michael.github.io//images/usopen2.jpeg" width="70%" height="70%">
+<img src="https://wenjielin-michael.github.io//images/usopen2.jpeg" width="50%" height="50%">
 ---
 
-<img src="https://wenjielin-michael.github.io//images/usopen3.jpeg" width="70%" height="70%">
+<img src="https://wenjielin-michael.github.io//images/usopen3.jpeg" width="50%" height="50%">
 ---
 <!--![Image text](https://wenjielin-michael.github.io/blob/master/images/Yangtse0.jpg)-->
 
