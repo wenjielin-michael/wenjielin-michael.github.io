@@ -20,7 +20,9 @@ redirect_from:
 <img src="https://wenjielin-michael.github.io//images/Alaska3.jpeg" width="80%" height="80%">
 
 * Miami
-
+  * Wakesurfing
+    <img src="https://wenjielin-michael.github.io//images/wakesurfing.jpg" width="80%" height="80%">
+---
 
 <img src="https://wenjielin-michael.github.io//images/Miami1.jpeg" width="80%" height="80%">
 ---
