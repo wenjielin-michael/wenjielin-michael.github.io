@@ -22,7 +22,7 @@ Course Projects
 * Birdman and LarvaBot (MECE4611 Robotics Studio Instructed by Prof. Hod Lipson) [[PDF]](https://wenjielin-michael.github.io/files/LarvaBot and Birdman's Final Report.pdf)  [[Video]](https://youtu.be/3n6W_W2n-a4)
 
   Grade: A+
-* OctopusBot (MECS4510 Evolutionary Computation and Design Automation Instructed by Prof. Hod Lipson) B+ [[PDF]](https://wenjielin-michael.github.io/files/EA_Final_Presentation.pdf) [[Video]](https://youtu.be/fQaXNtJtZL8)
+* OctopusBot (MECS4510 Evolutionary Computation and Design Automation Instructed by Prof. Hod Lipson) [[PDF]](https://wenjielin-michael.github.io/files/EA_Final_Presentation.pdf) [[Video]](https://youtu.be/fQaXNtJtZL8)
 
   Grade: B+
 * Boxing Robot (MECE4602 Intro to Robotics Instructed by Prof. Sunil Agrawal) [[PDF]](https://wenjielin-michael.github.io/files/Robotics Final Presentation.pdf)  [[Video]](https://youtu.be/qqrvr_oKVTg)
