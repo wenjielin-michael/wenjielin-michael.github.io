@@ -11,10 +11,13 @@ redirect_from:
 
 Personal Projects
 ======
+* Low-cost Mighty Mini Fan-based Watch for Palmar Hyperhidrosis
+
+  Demo is coming soon.
 * Intelligent Glove for Hyperhidrosis Patients
   [ongoing] 
 
-  (Please feel free to contact me if you are interested in this project.)
+  (Please feel free to contact me if you are interested in these projects.)
 
 Columbia University
 ======
