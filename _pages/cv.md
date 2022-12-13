@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ======
-Here is my [CV](https://wenjielin-michael.github.io/files/Wenjie Lin's CV.pdf).
+Here is my [CV](https://wenjielin-michael.github.io/files/CV_Wenjie_Lin.pdf).
 <!-- Here is my CV [[English Version](https://yrwang501.github.io/files/CV_Yanran.pdf), [中文简历](https://alanlusun.github.io/files/CV_LuChangsheng_CN.pdf)]. -->
 
 Education
