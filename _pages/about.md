@@ -10,7 +10,7 @@ redirect_from:
 
 I'm Wenjie Lin (林文杰). I am currently a first-year Ph.D. student at Purdue Univeristy. My focus will be on AI and Robotics in Smart Manufacturing. Meanwhile, I'm interested in smart devices for healthcare. I hope to use my knowledge and passion to tackle the most important challenges in the world and free humanities with breakthrough technologies.
 
-Previously, I got my Master's degree in Mechanical Engineering (Robotics and Control) at Columbia University. Before joining Columbia, I obtained my bachelor’s degree in Safety Engineering at University of Science and Technology Beijing (USTB) and used to study in UC Berkeley and UCLA as an exchange student in Mechanical Engineering. 
+Previously, I got my master's degree in Mechanical Engineering (Robotics and Control) at Columbia University. Before joining Columbia, I obtained my bachelor’s degree in Safety Engineering at University of Science and Technology Beijing (USTB) and used to study in UC Berkeley and UCLA as an exchange student in Mechanical Engineering. 
 
 In addition, I am a big fan of wake surfing, tennis, basketball, reading, guitar and singing!
 
