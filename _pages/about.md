@@ -18,7 +18,7 @@ Please feel free to contact me if you are interested in my previous work!
 
 News
 ===  
-* March 10, 2024 | Our paper "GRASNet: A Novel Graph Neural Network for Improving Human Action Recognition and Well-Being Assessment in Smart Manufacturing" has been accepted by NAMRC 52, 2024. [Oral]
+* March 10, 2024 | Our paper "GRASNet: A Novel Graph Neural Network for Improving Human Action Recognition and Well-Being Assessment in Smart Manufacturing" has been accepted by NAMRC 52, 2024. (Oral)
 * I will begin my Ph.D. journey at Purdue University on fall 23 with full RA scholarships. And I've got Presidential Doctoral Excellence Fellowships granted by Purdue.
 * October 23, 2022 | I will give an oral presentation about a working paper "Primary Hyperhidrosis: A Review of Current Diagnosis and Management and Potential Engineering and Social Interventions" on IEEE-Universal Village 2022!
 * September 14, 2022 | My paper “[Deep Reinforcement Learning based Haptic Enhancement for Tele-Diagnosis](https://ieeexplore.ieee.org/abstract/document/9882866)” is published on FUZZ-IEEE (WCCI 2022).
