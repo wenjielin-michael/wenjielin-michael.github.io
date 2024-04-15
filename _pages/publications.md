@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## Selected Publications
+<b>[GRASNet: A Novel Graph Neural Network for Improving Human Action Recognition and Well-Being Assessment in Smart Manufacturing]</b><br>
+<b>Wenjie Lin, Xingyu Li<br>
+Accepted by <i>NAMRC 52</i> <b>2024</b>.
+
 <b>[Deep Reinforcement Learning based Haptic Enhancement for Tele-Diagnosis](https://ieeexplore.ieee.org/abstract/document/9882866)</b><br>
 <b>Wenjie Lin<br>
 <i>FUZZ-IEEE, WCCI.</i> <b>2022</b>.
