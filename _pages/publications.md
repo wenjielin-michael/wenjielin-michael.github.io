@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Selected Publications
-<b>[GRASNet: A Novel Graph Neural Network for Improving Human Action Recognition and Well-Being Assessment in Smart Manufacturing]</b><br>
+<b>GRASNet: A Novel Graph Neural Network for Improving Human Action Recognition and Well-Being Assessment in Smart Manufacturing</b><br>
 <b>Wenjie Lin, Xingyu Li<br>
 Accepted by <i>NAMRC 52</i> <b>2024</b>.
 
