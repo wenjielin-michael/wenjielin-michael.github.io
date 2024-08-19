@@ -22,6 +22,7 @@ Education
 
 Awards and Honors
 ======  
+* *Employee Recognition Award for Departmental Achievements (Purdue University)*, 2024-3.
 * *Presidential Doctoral Excellence Fellowship (Purdue University)*, 2023-8.
 * *Outstanding Graduate of USTB*, 2020-6.
 * *The People’s Scholarship of China* for undergraduate student, 2019-10.
