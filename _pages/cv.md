@@ -32,4 +32,10 @@ Awards and Honors
   Activities, 2017.10
 
 
+Teaching Experience
+======
+* *CNIT 272 Database Fundamentals (Purdue University)*, Spring 2025. TA
+* *CNIT 272 Database Fundamentals (Purdue University)*, Fall 2024. TA
+
+
 [[go top](https://wenjielin-michael.github.io/cv/)]  
