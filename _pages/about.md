@@ -17,7 +17,8 @@ In addition, I am a big fan of wake surfing, tennis, basketball, reading, guitar
 Please feel free to contact me if you are interested in my previous work!
 
 News
-===  
+===
+* May 21, 2025 - Our latest arXiv paper "[Think, Reflect, Create: Metacognitive Learning for Zero-Shot Robotic Planning with LLMs](https://arxiv.org/abs/2505.14899)" is now live.
 * March 10, 2024 - Our paper "GRASNet: A Novel Graph Neural Network for Improving Human Action Recognition and Well-Being Assessment in Smart Manufacturing" has been accepted by NAMRC 52, 2024. [Oral]
 * I will begin my Ph.D. journey at Purdue University on fall 23 with full RA scholarships. And I've got Presidential Doctoral Excellence Fellowships granted by Purdue. Thanks so much for the recognition.
 * October 23, 2022 - I will give an oral presentation about a working paper "Primary Hyperhidrosis: A Review of Current Diagnosis and Management and Potential Engineering and Social Interventions" on IEEE-Universal Village 2022!
