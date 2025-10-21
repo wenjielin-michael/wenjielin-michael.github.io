@@ -22,6 +22,7 @@ News
 * Sep 18, 2025 - Our paper "[Gender and Political Bias in Large Language Models: A Demonstration Platform](https://arxiv.org/abs/2509.16264)" in now released on arXiv.
 * Aug 21, 2025 - Our LLM4Sweat paper "[LLM4Sweat: A Trustworthy Large Language Model for Hyperhidrosis Support](https://arxiv.org/abs/2508.15192)" in now released on arXiv.
 * May 21, 2025 - Our latest arXiv paper "[Think, Reflect, Create: Metacognitive Learning for Zero-Shot Robotic Planning with LLMs](https://arxiv.org/abs/2505.14899)" is now live.
+* 2024 - Our two papers (LLM Hallucination) "[Comprehensive Evaluation of AI Hallucination and Novel UV-Oriented Framework toward Safe and Trustworthy AI](https://ieeexplore.ieee.org/abstract/document/11189137)" and "[LENS: Layers of Evaluation of Hallucination in GenAI Systems](https://ieeexplore.ieee.org/abstract/document/11189150)" have been published on IEEE UV 2024.
 * March 10, 2024 - Our paper "GRASNet: A Novel Graph Neural Network for Improving Human Action Recognition and Well-Being Assessment in Smart Manufacturing" has been accepted by NAMRC 52, 2024. [Oral]
 * I will begin my Ph.D. journey at Purdue University on fall 23 with full RA scholarships. And I've got Presidential Doctoral Excellence Fellowships granted by Purdue. Thanks so much for the recognition.
 * October 23, 2022 - I will give an oral presentation about a working paper "Primary Hyperhidrosis: A Review of Current Diagnosis and Management and Potential Engineering and Social Interventions" on IEEE-Universal Village 2022!

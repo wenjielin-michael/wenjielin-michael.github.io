@@ -6,8 +6,20 @@ author_profile: true
 ---
 
 ## Selected Publications
+<b>[LLM4Sweat: A Trustworthy Large Language Model for Hyperhidrosis Support](https://arxiv.org/abs/2508.15192)</b><br>
+<b>Wenjie Lin, Jin Wei-Kocsis<br>
+<i>Accepted to AAAI 2026 Innovative Applications of AI Track</i> <b>2022</b>. (acceptance rate: 20%)
+
+<b> [Think, Reflect, Create: Metacognitive Learning for Zero-Shot Robotic Planning with LLMs](https://arxiv.org/abs/2505.14899)
+Under Review
+
+<b>[Comprehensive Evaluation of AI Hallucination and Novel UV-Oriented Framework toward Safe and Trustworthy AI](https://ieeexplore.ieee.org/abstract/document/11189137)</b><br>
+<i>IEEE-UV.</i> <b>2024</b>. 
+
+<b>[LENS: Layers of Evaluation of Hallucination in GenAI Systems](https://ieeexplore.ieee.org/abstract/document/11189150)</b><br>
+<i>IEEE-UV.</i> <b>2024</b>. 
+
 <b>GRASNet: A Novel Graph Neural Network for Improving Human Action Recognition and Well-Being Assessment in Smart Manufacturing</b><br>
-<b>Wenjie Lin, Xingyu Li<br>
 Accepted by <i>NAMRC 52</i> <b>2024</b>. [Oral Presentation]
 
 <b>[Deep Reinforcement Learning based Haptic Enhancement for Tele-Diagnosis](https://ieeexplore.ieee.org/abstract/document/9882866)</b><br>
