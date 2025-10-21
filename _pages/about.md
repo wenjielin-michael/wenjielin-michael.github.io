@@ -18,6 +18,8 @@ Please feel free to contact me if you are interested in my previous work!
 
 News
 ===
+* Oct 13, 2025 - Our LLM4Sweat paper "[LLM4Sweat: A Trustworthy Large Language Model for Hyperhidrosis Support](https://arxiv.org/abs/2508.15192)" has been accepted to AAAI 2026 Innovative Applications of AI Track.
+* Sep 18, 2025 - Our paper "[Gender and Political Bias in Large Language Models: A Demonstration Platform](https://arxiv.org/abs/2509.16264)" in now released on arXiv.
 * Aug 21, 2025 - Our LLM4Sweat paper "[LLM4Sweat: A Trustworthy Large Language Model for Hyperhidrosis Support](https://arxiv.org/abs/2508.15192)" in now released on arXiv.
 * May 21, 2025 - Our latest arXiv paper "[Think, Reflect, Create: Metacognitive Learning for Zero-Shot Robotic Planning with LLMs](https://arxiv.org/abs/2505.14899)" is now live.
 * March 10, 2024 - Our paper "GRASNet: A Novel Graph Neural Network for Improving Human Action Recognition and Well-Being Assessment in Smart Manufacturing" has been accepted by NAMRC 52, 2024. [Oral]
