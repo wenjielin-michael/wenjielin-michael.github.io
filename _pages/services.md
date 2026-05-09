@@ -5,7 +5,7 @@ permalink: /services/
 author_profile: true
 ---
 
-## Reviewer Experiences
+## Reviewer Service
 
 Journal
 ======
