@@ -18,6 +18,7 @@ Please feel free to contact me if you are interested in my previous work!
 
 News
 ===
+* June 16, 2026 - Our REFLEX paper "[REFLEX: Metacognitive Reasoning for Reflective Zero-Shot Robotic Planning with Large Language Models](https://arxiv.org/abs/2505.14899)" has been accepted to IROS 2026 (acceptance rate: 36%). See you soon in Pittsburgh!
 * Oct 13, 2025 - Our LLM4Sweat paper "[LLM4Sweat: A Trustworthy Large Language Model for Hyperhidrosis Support](https://arxiv.org/abs/2508.15192)" has been accepted to AAAI 2026 Innovative Applications of AI Track.
 * Sep 18, 2025 - Our paper "[Gender and Political Bias in Large Language Models: A Demonstration Platform](https://arxiv.org/abs/2509.16264)" in now released on arXiv.
 * Aug 21, 2025 - Our LLM4Sweat paper "[LLM4Sweat: A Trustworthy Large Language Model for Hyperhidrosis Support](https://arxiv.org/abs/2508.15192)" in now released on arXiv.
