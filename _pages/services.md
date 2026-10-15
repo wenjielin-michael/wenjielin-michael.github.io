@@ -9,8 +9,10 @@ author_profile: true
 
 Journal
 ======
+* Pattern Recognition
 * IEEE Transactions on Industrial Informatics
 * Information Sciences
+* Health Systems
 
 Conference
 ======
