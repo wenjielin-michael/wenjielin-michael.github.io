@@ -16,6 +16,7 @@ Journal
 
 Conference
 ======
+* AAAI 2027
 * ICRA 2027
 * AAAI 2026
 * IROS 2026
